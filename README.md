@@ -1,7 +1,4 @@
-https://www.digitalocean.com/community/tutorials/api-authentication-with-json-web-tokensjwt-and-passport
 
-
-https://github.com/eXtremeXR/APIAuthenticationWithNode/blob/Part_%238/routes/users.js
 
 ### Step 1 - Create Mongodb Model
 ```js
